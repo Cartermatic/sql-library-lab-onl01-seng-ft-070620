@@ -23,3 +23,8 @@ VALUES
 ("Char 7", "Human", "Motto 7", 1, 1),
 ("Char 8", "Human", "Motto 8", 1, 1);
 
+INSERT INTO subgenres (name)
+VALUES
+("Subgenre 1"),
+("Subgenre 2");
+
