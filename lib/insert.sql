@@ -28,3 +28,8 @@ VALUES
 ("Subgenre 1"),
 ("Subgenre 2");
 
+INSERT INTO authors (name)
+VALUES
+("Author 1"),
+("Author 2");
+
