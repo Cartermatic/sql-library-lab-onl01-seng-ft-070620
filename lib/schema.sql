@@ -18,3 +18,11 @@ CREATE TABLE authors (
 );
 
 
+CREATE TABLE books (
+  id INTEGER PRIMARY KEY,
+  title TEXT,
+  year DATE,
+  series_id INTEGER
+);
+
+
